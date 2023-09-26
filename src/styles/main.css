@@ -9,3 +9,7 @@ html, body, #app {
 .flex {
   display: flex;
 }
+
+.flex-item {
+  flex: 1;
+}
